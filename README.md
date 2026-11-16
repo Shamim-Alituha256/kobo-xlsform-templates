@@ -6,7 +6,7 @@ XLSForm templates for KoboToolBox - ready to upload and deploy for data collecti
 | File | Use |
 | --- | --- |
 | malaria indicator surveys.xlsx | Household malaria survey - household roster, bed net use, fever / treatment, with skip logic and validation |
-| NIRA Registration sample.xlsx | NIRA-style registration - personal details, NIN validation, district / parishm consent and photo capture |
+| NIRA Registration sample.xlsx | NIRA-style registration - personal details, NIN validation, district / parish consent and photo capture |
 
 ## How to use
 
